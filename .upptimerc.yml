@@ -5,12 +5,12 @@ repo: BDC # The name of this repository
 sites:
   - name: Facebook
     url: https://www.facebook.com/
-  - name: THSR
-    url: https://irs.thsrc.com.tw/IMINT/
+  - name: Youtube
+    url: https://www.youtube.com/
   - name: BBC
     url: https://www.bbc.com/zhongwen/trad
-  - name: Canva
-    url: https://www.canva.com/zh_tw/
+  - name: WSJ
+    url: https://cn.wsj.com/zh-hant
   - name: FIFA
     url: https://www.fifa.com/
   - name: error
