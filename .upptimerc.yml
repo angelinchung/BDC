@@ -13,8 +13,7 @@ sites:
     url: https://cn.wsj.com/zh-hant
   - name: FIFA
     url: https://www.fifa.com/
-  - name: error
-    url: http://www.example.com/space%20here.html
+
 
     
 
